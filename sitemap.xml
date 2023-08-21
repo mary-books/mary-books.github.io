@@ -1,52 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://mary-books.github.io/2023/03/24/kwaidan/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2023/05/19/vostorg-i-bol-srazheniya/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/05/17/kosmicheskaya-mifologiya/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/05/17/amsterdam/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/04/05/bellman-and-black/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/03/24/kwaidan/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/03/16/pismovnik/</loc>
+        <loc>https://mary-books.github.io/2023/03/09/once-upon-a-river/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/03/16/lyubimoe-uravnenie-professora/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/03/09/once-upon-a-river/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/02/23/u-vojny-ne-zhenskoe-litso/</loc>
+        <loc>https://mary-books.github.io/2023/03/16/pismovnik/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/02/23/the-cat-who-saved-books/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/02/23/the-amazing-maurice/</loc>
+        <loc>https://mary-books.github.io/2023/05/17/amsterdam/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/02/23/poslednie-svideteli/</loc>
+        <loc>https://mary-books.github.io/2023/02/23/u-vojny-ne-zhenskoe-litso/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/02/23/pavel-chzhan/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/02/23/i-am-a-cat/</loc>
+        <loc>https://mary-books.github.io/2023/05/17/kosmicheskaya-mifologiya/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/02/23/gamayun-tales/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/02/23/almost-nearly-perfect-people/</loc>
+        <loc>https://mary-books.github.io/2023/02/23/poslednie-svideteli/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/02/21/onward-towards-our-noble-deaths/</loc>
@@ -55,28 +43,40 @@
         <loc>https://mary-books.github.io/2023/02/15/lozhitsya-mgla-na-starye-stupeni/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2023/02/23/the-amazing-maurice/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/02/23/pavel-chzhan/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/02/23/almost-nearly-perfect-people/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2023/02/15/americanah/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/02/10/klara-and-the-sun/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/02/08/vsya-kremlevskaya-rat/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/02/08/grass/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/02/06/vechnaya-merzlota/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/01/31/the-thirteenth-tale/</loc>
+        <loc>https://mary-books.github.io/2023/02/23/i-am-a-cat/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/31/rif/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2023/01/31/the-thirteenth-tale/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/02/06/vechnaya-merzlota/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2023/01/31/drood/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/01/25/beryozka/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/02/08/vsya-kremlevskaya-rat/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/30/sweden/</loc>
@@ -85,22 +85,16 @@
         <loc>https://mary-books.github.io/2023/01/30/kavalier-and-clay/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/25/beryozka/</loc>
+        <loc>https://mary-books.github.io/2023/02/08/grass/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/24/the-bullet-that-missed/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/24/kairskie-hroniki/</loc>
+        <loc>https://mary-books.github.io/2023/01/11/kim-jiyoung/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/23/tajna-zheltoj-komnaty/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/01/23/russian-revolution/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/01/23/passazhir/</loc>
+        <loc>https://mary-books.github.io/2023/01/23/istoriya-yrodstva/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/23/kastanjemanden/</loc>
@@ -109,25 +103,22 @@
         <loc>https://mary-books.github.io/2023/01/23/johnny-got-his-gun/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/23/istoriya-yrodstva/</loc>
+        <loc>https://mary-books.github.io/2023/01/24/kairskie-hroniki/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/23/golovolomka/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/11/kim-jiyoung/</loc>
+        <loc>https://mary-books.github.io/2023/01/23/passazhir/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/01/23/russian-revolution/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/10/the-tokyo-zodiac-murders/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2023/01/09/seven-years-of-darkness/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/01/04/vinoven/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2023/01/04/polupriznanie/</loc>
+        <loc>https://mary-books.github.io/2023/01/23/tajna-zheltoj-komnaty/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2023/01/04/golos-greha/</loc>
@@ -136,67 +127,58 @@
         <loc>https://mary-books.github.io/2022/12/15/memuary-ubijtsy/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2022/12/13/the-man-who-died-twice/</loc>
+        <loc>https://mary-books.github.io/2023/01/04/vinoven/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2022/11/09/the-thursday-murder-club/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2022/09/21/everything-under/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/12/13/the-man-who-died-twice/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2022/09/21/the-last-hero-a-discworld-fable/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2022/09/21/everything-under/</loc>
+        <loc>https://mary-books.github.io/2023/01/04/polupriznanie/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2023/01/09/seven-years-of-darkness/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2022/09/12/the-waxworks-murder/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2022/09/12/miracle-workers/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/09/12/marvel-noir/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/08/22/kotologika/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/05/06/russkaya-kultura-zagovora/</loc>
+        <loc>https://mary-books.github.io/2022/03/28/russkij-yazyk-na-grani-nervnogo-sryva/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2022/05/06/a-demon-hauntend-land/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2022/09/12/miracle-workers/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2022/03/28/the-secret-history/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/05/06/russkaya-kultura-zagovora/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/08/22/kotologika/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2022/03/28/the-sanatorium/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2022/03/28/russkij-yazyk-na-grani-nervnogo-sryva/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/03/28/a-series-of-unfortunate-events/</loc>
+        <loc>https://mary-books.github.io/2022/09/12/marvel-noir/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2022/03/09/zaschita-ot-temnyh-iskusstv/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2022/03/09/istoriya-smerti/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/01/24/pisatel-i-samoubijstvo/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/01/20/avtor-nozhnitsy-bumaga/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2022/01/13/comics-marvel-11/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/11/16/misticheskie-istorii-part-1/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/11/10/books-of-blood-part-2/</loc>
+        <loc>https://mary-books.github.io/2022/03/28/a-series-of-unfortunate-events/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/10/31/dom-u-kladbischa/</loc>
@@ -205,10 +187,37 @@
         <loc>https://mary-books.github.io/2021/10/22/yaponskaya-demonologiya/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2022/03/09/istoriya-smerti/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/01/24/pisatel-i-samoubijstvo/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2021/10/17/slovo-zhivoe-i-mertvoe/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2021/11/10/books-of-blood-part-2/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/01/13/comics-marvel-11/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/11/16/misticheskie-istorii-part-1/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2022/01/20/avtor-nozhnitsy-bumaga/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2021/10/17/ona-razvalilas/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/08/10/the-diary-of-a-bookseller/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/10/06/seconds/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/08/24/bojnya/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/10/17/istoriya-chastnoj-zhizni-1/</loc>
@@ -217,115 +226,106 @@
         <loc>https://mary-books.github.io/2021/10/17/germeticheskij-garazh/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/10/06/uzumaki/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/10/06/seconds/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2021/08/24/ostrov-sahalin/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/08/24/kak-perestat-uchit-inostrannyj/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/08/24/chelovek-kombini/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/08/24/bojnya/</loc>
+        <loc>https://mary-books.github.io/2021/08/24/kak-perestat-uchit-inostrannyj/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/08/10/the-diary-of-a-bookseller/</loc>
+        <loc>https://mary-books.github.io/2021/10/06/uzumaki/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/08/10/podzemka/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/08/10/okamenelye-grezy/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/08/10/confessions-of-a-bookseller/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/08/03/persepolis/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/07/19/mir-zvonka/</loc>
+        <loc>https://mary-books.github.io/2021/07/19/archangel/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/07/19/istvikskie-vedmy/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/07/19/archangel/</loc>
+        <loc>https://mary-books.github.io/2021/06/30/dom-bez-othodov/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/08/10/okamenelye-grezy/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/06/30/strashnye-skazki/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/06/30/dom-bez-othodov/</loc>
+        <loc>https://mary-books.github.io/2021/07/19/mir-zvonka/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/08/10/confessions-of-a-bookseller/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/06/22/touching-from-a-distance/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2021/08/03/persepolis/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2021/06/22/k-severu-ot-38-paralleli/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/05/10/ot-litery-do-literatury/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/25/vtoraya-zhizn-uve/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/25/volshebnye-chary-luny/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/25/soiti/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/25/lyubov-mertvetsa/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/25/kaidan/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/03/10/vsjo-o-mumi-trollyah/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2021/02/04/hygge/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2021/02/04/dekadenty/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/02/02/pantalonyfrakzhilet/</loc>
+        <loc>https://mary-books.github.io/2021/03/25/soiti/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2021/02/02/istoriya-krasoty/</loc>
+        <loc>https://mary-books.github.io/2021/02/04/hygge/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/03/25/vtoraya-zhizn-uve/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/03/10/vsjo-o-mumi-trollyah/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/03/25/kaidan/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/03/25/volshebnye-chary-luny/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/05/10/ot-litery-do-literatury/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/03/25/lyubov-mertvetsa/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2021/02/02/pantalonyfrakzhilet/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/12/07/the-haunting-of-hill-house/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/12/07/comics-marvel-10/</loc>
+        <loc>https://mary-books.github.io/2021/02/02/istoriya-krasoty/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/11/25/the-halloween-tree/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2020/11/11/books-of-blood-part-1/</loc>
+        <loc>https://mary-books.github.io/2020/10/03/shkola-kontenta/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/11/09/nothing-to-be-frightened-of/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2020/12/07/comics-marvel-10/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2020/11/09/52-small-changes/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/11/09/100-rasskazov-iz-istorii-meditsiny/</loc>
+        <loc>https://mary-books.github.io/2020/11/11/books-of-blood-part-1/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/10/03/shkola-kontenta/</loc>
+        <loc>https://mary-books.github.io/2020/11/25/the-halloween-tree/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/11/09/100-rasskazov-iz-istorii-meditsiny/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/09/08/tokyo-ghost/</loc>
@@ -334,7 +334,13 @@
         <loc>https://mary-books.github.io/2020/08/27/the-crow/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/08/22/from-hell/</loc>
+        <loc>https://mary-books.github.io/2020/06/28/watership-down/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/05/29/comics-marvel-9/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/06/22/opasnye-sovetskie-veschi/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/07/31/pesni-mertvogo-snovidtsa/</loc>
@@ -343,109 +349,103 @@
         <loc>https://mary-books.github.io/2020/07/09/the-essex-serpent/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/06/28/watership-down/</loc>
+        <loc>https://mary-books.github.io/2020/08/22/from-hell/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/06/22/smert-zamechatelnyh-lyudej/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/06/22/opasnye-sovetskie-veschi/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2020/06/22/moj-luchshij-drug-zheludok/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2020/05/29/comics-marvel-9/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/03/29/why-we-love/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/03/29/krasnoshejka/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2020/03/29/blagovolitelnitsy/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2020/03/29/11-22-63/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2020/02/16/stradayuschee-srednevekove/</loc>
+        <loc>https://mary-books.github.io/2019/11/04/nazovi-menya-svoim-imenem/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2020/02/16/parasite-rex/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2020/02/15/comics-marvel-8/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2019/11/04/poslednij-samuraj/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2019/11/04/nazovi-menya-svoim-imenem/</loc>
+        <loc>https://mary-books.github.io/2020/03/29/krasnoshejka/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/02/15/comics-marvel-8/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/03/29/blagovolitelnitsy/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2020/02/16/stradayuschee-srednevekove/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2019/08/18/doctor-faustus/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2020/03/29/11-22-63/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2019/07/26/ocharovatelnyj-kishechnik/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2019/07/17/v-internete-kto-to-neprav/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2019/06/23/pseudoscience-and-extraordinary-claims-of-the-paranormal/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2019/06/11/comics-marvel-7/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2019/05/25/adjustment-day/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2019/04/22/deti-moi/</loc>
+        <loc>https://mary-books.github.io/2019/04/01/kak-rabotaet-immunitet/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2019/04/22/bird-box/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2019/04/01/the-genius-of-birds/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2019/04/01/the-demon-haunted-world/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2019/04/01/kak-rabotaet-immunitet/</loc>
+        <loc>https://mary-books.github.io/2019/06/23/pseudoscience-and-extraordinary-claims-of-the-paranormal/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2019/04/22/deti-moi/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2019/07/17/v-internete-kto-to-neprav/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2019/04/01/the-genius-of-birds/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2019/06/11/comics-marvel-7/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2019/04/01/comics-marvel-6/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2019/02/08/petrovy-v-grippe-i-vokrug-nego/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2019/01/07/zulejha-otkryvaet-glaza/</loc>
+        <loc>https://mary-books.github.io/2018/11/23/novye-pravila-delovoj-perepiski/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/12/04/pisheblok/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/11/23/novye-pravila-delovoj-perepiski/</loc>
+        <loc>https://mary-books.github.io/2018/11/16/lyudi-i-zveri/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/11/16/lyudi-i-zveri/</loc>
+        <loc>https://mary-books.github.io/2019/02/08/petrovy-v-grippe-i-vokrug-nego/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/11/05/1913/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/10/15/comics-marvel-5/</loc>
+        <loc>https://mary-books.github.io/2018/09/14/rukopis-najdennaya-v-saragose/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/09/19/tarakany/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/09/14/rukopis-najdennaya-v-saragose/</loc>
+        <loc>https://mary-books.github.io/2018/10/15/comics-marvel-5/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2019/01/07/zulejha-otkryvaet-glaza/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/09/04/netopyr/</loc>
@@ -454,19 +454,22 @@
         <loc>https://mary-books.github.io/2018/08/30/omerzitelnoe-iskysstvo/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/08/28/the-terror/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2018/08/28/comics-marvel-4/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2018/08/09/thief-of-time/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/06/29/the-truth/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2018/03/27/trigun/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2018/08/28/comics-marvel-4/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2018/05/28/vskrytie-pokazhet/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2018/08/28/the-terror/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2018/05/14/pishi-sokraschai/</loc>
@@ -475,19 +478,7 @@
         <loc>https://mary-books.github.io/2018/04/22/imperiya-dolzhna-umeret/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2018/03/27/trigun/</loc>
-    </url>
-    <url>
         <loc>https://mary-books.github.io/2018/03/02/tony-and-susan/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2018/02/13/the-stand/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2018/01/09/miserere/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2018/01/06/what-are-you-looking-at/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2017/11/23/comics-marvel-3/</loc>
@@ -496,13 +487,22 @@
         <loc>https://mary-books.github.io/2017/11/18/comics-marvel-2/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2017/11/06/the-black-dahlia/</loc>
+        <loc>https://mary-books.github.io/2017/10/21/glue/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2018/02/13/the-stand/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2018/01/06/what-are-you-looking-at/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2017/11/03/blindness/</loc>
     </url>
     <url>
-        <loc>https://mary-books.github.io/2017/10/21/glue/</loc>
+        <loc>https://mary-books.github.io/2017/11/06/the-black-dahlia/</loc>
+    </url>
+    <url>
+        <loc>https://mary-books.github.io/2018/01/09/miserere/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2017/10/10/the-secret-history-of-comics/</loc>
@@ -511,13 +511,13 @@
         <loc>https://mary-books.github.io/2017/09/26/comics-marvel/</loc>
     </url>
     <url>
+        <loc>https://mary-books.github.io/2017/08/24/dreams-underfoot/</loc>
+    </url>
+    <url>
         <loc>https://mary-books.github.io/2017/09/19/what-dreams-may-come/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2017/09/06/house-at-the-edge-of-night/</loc>
-    </url>
-    <url>
-        <loc>https://mary-books.github.io/2017/08/24/dreams-underfoot/</loc>
     </url>
     <url>
         <loc>https://mary-books.github.io/2017/01/01/about-me/</loc>
